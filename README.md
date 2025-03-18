@@ -67,4 +67,4 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 ---
 
 ⭐ **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abduhtech&show_icons=true&theme=dark)
