@@ -7,14 +7,14 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 ---
 
 ## 📬 Reach me out!
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](your-twitter-link) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)]([your-twitter-link](https://x.com/Abduheg2023)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdelrahmanbelal/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Abduhtech)
 [![wakatime](https://wakatime.com/badge/user/ff4e7538-80af-455c-9b34-832c5e5d5b62.svg)](https://wakatime.com/@ff4e7538-80af-455c-9b34-832c5e5d5b62)
 
 - 🚀 **Full Stack Engineer | MERN Developer | ERP Specialist**
 - 💻 **Most used line of code:** `git commit -am "Init Commit"`
-- 📩 **How to reach me:** [youremail@example.com](mailto:youremail@example.com)
+- 📩 **How to reach me:** [youremail@example.com](abdoo.sa21@gmail.com)
 - ⚡ **Fun fact:** I enjoy exploring new technologies and optimizing business workflows with ERP systems.
 
 ---
@@ -35,9 +35,7 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
-![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat-square&logo=springboot)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=flat-square&logo=graphql)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
@@ -55,12 +53,10 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-333?style=flat-square&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-333?style=flat-square&logo=netlify)
+
 
 ---
 
