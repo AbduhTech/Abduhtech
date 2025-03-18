@@ -14,7 +14,7 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 
 - 🚀 **Full Stack Engineer | MERN Developer | ERP Specialist**
 - 💻 **Most used line of code:** `git commit -am "Init Commit"`
-- 📩 **How to reach me:** [youremail@example.com](abdoo.sa21@gmail.com)
+- 📩 **How to reach me:** [abdoo.sa21@gmail.com](abdoo.sa21@gmail.com)
 - ⚡ **Fun fact:** I enjoy exploring new technologies and optimizing business workflows with ERP systems.
 
 ---
@@ -61,7 +61,8 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 ---
 
 ## ⏳ WakaTime Coding Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=dark)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Abduhtech&layout=compact&theme=dark)
+
 
 ---
 
