@@ -9,8 +9,8 @@ I strive to **write clean, efficient, and maintainable code**, ensuring that sys
 ## 📬 Reach me out!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](your-twitter-link) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdelrahmanbelal/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=GitHub&logoColor=white)](https://github.com/your-github-username)
-[![WakaTime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@your-wakatime-username)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Abduhtech)
+[![WakaTime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@Abduhtech)
 
 - 🚀 **Full Stack Engineer | MERN Developer | ERP Specialist**
 - 💻 **Most used line of code:** `git commit -am "Init Commit"`
